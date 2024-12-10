@@ -23,7 +23,7 @@ The **User Management System** is a REST API developed using **Spring Boot** to 
 src/main/java
 ├── com.spring.rest.ums
 │   ├── controller   # REST controllers
-│   ├── model        # Entity classes
+│   ├── Entity        # Entity classes
 │   ├── repository   # JPA repositories
 │   ├── service      # Business logic
 │   ├── exception    # Custom exceptions
